@@ -13,7 +13,8 @@ Hello! I am an aspiring data scientist majoring in Economics at International Ch
 
 **Data Visualization:** Skilled in creating meaningful and interactive visualizations using libraries such as Matplotlib and Seaborn
 
-My contact: kenshimokawa3@gmail.com or linkedIn: www.linkedin.com/in/ken-shimokawa-914291256
+## My contact:
+kenshimokawa3@gmail.com or linkedIn: www.linkedin.com/in/ken-shimokawa-914291256
 <!--
 **kenshimoakwa/kenshimoakwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

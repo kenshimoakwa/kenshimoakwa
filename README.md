@@ -1,7 +1,7 @@
 ### Welcome to my GitHub
 
 ## About me
-Hello! I am an aspiring data scientist majoring in Economics at International Christian University. I have a certification in Data Science from the Jheronomous Academy of Data Science. My passion lies in uncovering insights from data and leveraging them to make informed decisions and drive impactful outcomes.
+Hello my name is Ken Shimokawa and I am an aspiring data scientist majoring in Economics at International Christian University. I have a certification in Data Science from the Jheronomous Academy of Data Science. My passion lies in uncovering insights from data and leveraging them to make informed decisions and drive impactful outcomes.
 
 ## Skills and Expertise
 

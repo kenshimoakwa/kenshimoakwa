@@ -15,7 +15,7 @@ Hello, my name is Ken Shimokawa, and I am an aspiring data scientist majoring in
 
 ## My Projects:
 
-### Project1: predicting movie ratings (
+### Project1: predicting movie ratings (https://github.com/kenshimoakwa/Movie-Project)
 A machine learning project aimed at predicting movie ratings.
 
 ### Project2: 

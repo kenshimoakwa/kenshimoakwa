@@ -13,6 +13,14 @@ Hello, my name is Ken Shimokawa, and I am an aspiring data scientist majoring in
 
 **Data Visualization:** Skilled in creating meaningful and interactive visualizations using libraries such as Matplotlib and Seaborn
 
+## My Projects:
+
+### Project1: predicting movie ratings (
+A machine learning project aimed at predicting movie ratings.
+
+### Project2: 
+
+
 ## My contact:
 kenshimokawa3@gmail.com or linkedIn: www.linkedin.com/in/ken-shimokawa-914291256
 <!--

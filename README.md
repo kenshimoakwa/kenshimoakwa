@@ -1,11 +1,12 @@
-### Welcome to my GitHub
+### Welcome to my GitHub・私のギットハブへようこそ
 
 ## About me
 Hello, my name is Ken Shimokawa, and I am an aspiring data scientist majoring in Economics at International Christian University. I have a certification in Data Science from the Jheronomous Academy of Data Science. My passion lies in uncovering insights from data and leveraging them to make informed decisions and drive impactful outcomes.
 
-## Skills and Expertise
+## Skills and Expertise・スキル
 
-**Data Analysis(R and Python):** Proficient in using tools like Python and R to clean, analyze, and visualize data.
+**Data Analysis(R and Python)・データアナルシス:** Proficient in using tools like Python and R to clean, analyze, and visualize data. 
+PythonやRなどのツールを用いて、データのクレンジング、分析、そして可視化を行うことに熟練しています。
 
 **Machine Learning:** Experience with supervised and unsupervised learning algorithms, model evaluation, and feature engineering.
 

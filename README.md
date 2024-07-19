@@ -6,7 +6,7 @@ Hello, my name is Ken Shimokawa, and I am an aspiring data scientist majoring in
 ## Skills and Expertise・スキル
 
 **Data Analysis(R and Python)・データアナルシス:** Proficient in using tools like Python and R to clean, analyze, and visualize data. 
-PythonやRなどのツールを用いて、データのクレンジング、分析、そして可視化を行うことに熟練しています。
+  PythonやRなどのツールを用いて、データのクレンジング、分析、そして可視化を行うことに熟練しています。
 
 **Machine Learning:** Experience with supervised and unsupervised learning algorithms, model evaluation, and feature engineering.
 

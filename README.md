@@ -30,6 +30,7 @@ A machine learning project aimed at predicting movie ratings.
 
 ### Project2: Board Games・ボードゲーム（https://github.com/kenshimoakwa/Board-Games）
 This project analyzes data provided to determine what type of board game would make the most money
+
 このプロジェクトは提供されたデータを分析して、どの種類のボードゲームが最も収益を上げるかを決定します。
 
 
